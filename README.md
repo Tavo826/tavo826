@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Reference-style: 
 ![cover][logo]
 
-[logo]: https://github.com/Tavo826/tavo826/edit/main/github_portada.jpeg "Profile cover"
+[logo]: https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg "Profile cover"
 
 ## Gustavo Orozco
 
