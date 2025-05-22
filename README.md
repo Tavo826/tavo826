@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cover][logo | width=100]
+![cover][logo]
 
-[logo]: https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg "Profile cover"
+[logo]: https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg | width=100 "Profile cover"
 
 ## Gustavo Orozco
 
