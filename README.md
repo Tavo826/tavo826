@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Electronical Engineer and Backend Developer
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/tavo826/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tavo826)
 &nbsp;
 
