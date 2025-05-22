@@ -19,4 +19,5 @@ Electronical Engineer and Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tavo826)
 &nbsp;
+[![Gmail](https://img.shields.io/gmail)](mailto:gustavo.orozcom68@gmail.com)
 
