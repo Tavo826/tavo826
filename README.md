@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![cover](https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg)
 
+<img src="https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg" width="300">
+
 ## Gustavo Orozco
 
 Electronical Engineer and Backend Developer
