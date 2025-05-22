@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Tavo826/tavo826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Gustavo Orozco
+
+Electronical Engineer and Backend Developer
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/tavo826/))
+&nbsp;
+
