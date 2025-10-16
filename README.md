@@ -25,6 +25,6 @@ Electronical Engineer and Backend Developer
 
 ### Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tavo826&theme=neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tavo826&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavo826&size_weight=0.5&count_weight=0.5&hide_progress=true)
