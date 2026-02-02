@@ -27,4 +27,4 @@ Electronical Engineer and Backend Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tavo826&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tavo826&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tavo826&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Lenguajes más usados" />
