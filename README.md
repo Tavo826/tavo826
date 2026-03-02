@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg" width="700">
+<img src="https://github.com/Tavo826/tavo826/blob/main/github_portada.jpeg" width="500">
 
 ## Gustavo Orozco
 
